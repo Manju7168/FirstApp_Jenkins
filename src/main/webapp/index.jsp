@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Mindtree Mind!</h2>
+<h2>Mindtree Ltd, Bengaluru :)</h2>
 </body>
 </html>

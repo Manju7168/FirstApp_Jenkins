@@ -15,7 +15,7 @@ public class JunitTests {
     @Test
     public void testAddition() {
         int res = devMethods.addition(3,4);
-        Assert.assertEquals(9,res);
+        Assert.assertEquals(7,res);
     }
 
     @Test
