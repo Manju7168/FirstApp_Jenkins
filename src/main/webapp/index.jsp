@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Manjunath Harakatti!</h2>
+<h2>Mindtree Mind!</h2>
 </body>
 </html>
