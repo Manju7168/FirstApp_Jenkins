@@ -22,13 +22,13 @@ public class JunitTests {
     public void testMultiplication() {
         System.out.println("Testing Multiplication method");
         int res = devMethods.multiplication(3,4);
-        Assert.assertEquals(10,res);
+        Assert.assertEquals(12,res);
     }
 
     @Test
     public void testDivision() {
         System.out.println("Testing Division method");
         int res = devMethods.division(16,4);
-        Assert.assertEquals(3,res);
+        Assert.assertEquals(4,res);
     }
 }
