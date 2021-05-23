@@ -29,6 +29,6 @@ public class JunitTests {
     public void testDivision() {
         System.out.println("Testing Division method");
         int res = devMethods.division(16,4);
-        Assert.assertEquals(4,res);
+        Assert.assertEquals(3,res);
     }
 }
