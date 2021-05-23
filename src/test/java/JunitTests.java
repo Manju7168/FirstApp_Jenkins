@@ -31,5 +31,4 @@ public class JunitTests {
         int res = devMethods.division(16,4);
         Assert.assertEquals(4,res);
     }
-    
 }
