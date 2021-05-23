@@ -22,7 +22,7 @@ public class JunitTests {
     public void testMultiplication() {
         System.out.println("Testing Multiplication method");
         int res = devMethods.multiplication(3,4);
-        Assert.assertEquals(12,res);
+        Assert.assertEquals(10,res);
     }
 
     @Test
